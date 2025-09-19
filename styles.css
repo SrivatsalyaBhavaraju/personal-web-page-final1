@@ -235,7 +235,7 @@ body {
     font-size: 4rem;
     color: rgba(255, 255, 255, 0.7);
 }
-.profile-image {
+.profile-image.large {
   width: 280px; 
   height: 280px;
   border-radius: 50%;
